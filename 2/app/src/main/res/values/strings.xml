@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2</string>
+    <string name="name">English Vocabulary</string>
+    <string name="learn">Learn</string>
+    <string name="paratice">Paratice</string>
+    <string name="test">Test</string>
+    <string name="coffee">What kind of Coffee</string>
+    <string name="coffee1">What else in you Coffee ?</string>
+</resources>
